@@ -13,8 +13,8 @@ Make sure you have **Go** installed on your system. Then, clone the repository a
 
 ```sh
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/email-scraper-cli.git
-cd email-scraper-cli
+git clone https://github.com/YOUR_USERNAME/email-scraper.git
+cd email-scraper
 
 # Build the binary
 go build -o email-scraper
